@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 50px;
+  text-align: center;
+  background-color: aqua;
+}
+
+input,
+select,
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
